@@ -4,3 +4,6 @@ Simple Blackjack GUI made with Tkinter. Used the logic that I created in the tex
 # What I Learned 
 - Fundamentals of the Tkinter library
 - GUI Layouts
+
+# Demo
+<img src="gifs/blackjack_tkinter.gif" height="400">
